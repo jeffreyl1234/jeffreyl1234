@@ -15,16 +15,18 @@
 - 📋 This is my [portfolio](https://google.com/), where you can see my projects and what I'm currently working on.
 - ✉️ Contacts are on the top.
 
+  
+<p>&nbsp;</p>
+
 <!---
+<div id="top langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyl1234&layout=compact&theme=tokyonight&card_width=500" alt="top langs"/>
+  
+</div>
+
 jeffreyl1234/jeffreyl1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 
-<p>&nbsp;</p>
-
-<div id="top langs">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyl1234&layout=compact&theme=tokyonight&card_width=500" alt="top langs"/>
-  
-</div>
 
