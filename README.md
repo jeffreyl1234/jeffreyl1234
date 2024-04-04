@@ -12,8 +12,8 @@
 
 - 👋 Hi, I’m a student at UCLA studying computer science and mathematics.
 - 👀 I’m interested in fields incorporating software, data, AI, and finance.
+- ✉️ Contacts are on the top.
 <!---  - 📋 This is my [portfolio](https://google.com/), where you can see my projects and what I'm currently working on.     -->- 
-✉️ Contacts are on the top.
 
   
 <p>&nbsp;</p>
